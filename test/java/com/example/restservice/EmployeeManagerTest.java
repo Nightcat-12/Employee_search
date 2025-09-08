@@ -26,7 +26,5 @@ public class EmployeeManagerTest {
 
         Employees employees = employeeManager.getEmployees();
         List<Employee> employeeList = employees.getEmployeeList();
-
-
     }
 }

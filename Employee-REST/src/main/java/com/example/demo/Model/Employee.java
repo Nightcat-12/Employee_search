@@ -19,6 +19,10 @@ public class Employee {
     @Column
     private String title;
 
+    public Employee() {
+
+    }
+
     public String getEmployee_id() {
         return employee_id;
     }
