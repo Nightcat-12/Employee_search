@@ -21,7 +21,16 @@
 
 ### Task Four: Create Unit Tests
 - Develop a set of unit tests to assess your application’s performance
-
 ---
+---
+## How to deploy this project (host REST API locally)
+- run EmployeeRestApplication
+
+- run EmployerControllerTest
+
+- run RestServiceApplicationTests
+
+- reload http://localhost:8080
+
 
 
